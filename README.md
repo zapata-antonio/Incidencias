@@ -1,4 +1,4 @@
-# Incidencias reales (Lab 26–35)
+# Incidencias reales (Lab 26–34)
 
 Esta sección agrupa incidencias típicas de entorno real: primero se reproduce el fallo, luego se identifica la causa y finalmente se documenta la resolución con evidencias (capturas).
 
@@ -18,8 +18,7 @@ Esta sección agrupa incidencias típicas de entorno real: primero se reproduce 
 | Redes | 31 | Puerto bloqueado por NSG | Identificación de regla y validación de conectividad | [Abrir Lab 31](https://github.com/zapata-antonio/LAB-31-Puerto-bloqueado-por-NSG) |
 | FinOps | 32 | Auto-shutdown | Control de costes con apagado programado | [Abrir Lab 32](https://github.com/zapata-antonio/Azure-Lab-32-FinOps-AutoShutdown) |
 | Gobierno | 33 | Resource Locks (CanNotDelete) | Protección ante borrados accidentales | [Abrir Lab 33](https://github.com/zapata-antonio/Azure-Lab-33-Governance-ResourceLocks) |
-| Identidad | 34 | PIM con aprobación | Activación con flujo de aprobación (si hay licencia) | [Abrir Lab 34](https://github.com/zapata-antonio/Azure-Lab-34-PIM-Approval) |
-| BCDR | 35 | File Recovery desde Backup | Recuperación puntual sin restaurar VM completa | [Abrir Lab 35](https://github.com/zapata-antonio/Azure-Lab-35-AzureBackup-FileRecovery) |
+| BCDR | 34 | File Recovery desde Backup | Recuperación puntual sin restaurar VM completa | [Abrir Lab 35](https://github.com/zapata-antonio/Azure-Lab-35-AzureBackup-FileRecovery) |
 
 ---
 
