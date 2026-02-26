@@ -10,7 +10,7 @@ Esta sección agrupa incidencias típicas de entorno real: primero se reproduce 
 
 | Área | Lab | Incidencia | Qué se valida | Enlace |
 |---|---:|---|---|---|
-| Redes | 26 | IP Overlap en VNet Peering | Diagnóstico de solapamiento CIDR y corrección de address space | [Abrir Lab 26](zapata-antonio/Lab-26-Incidencia-Solapamiento-de-IPs-en-VNet-Peering) |
+| Redes | 26 | IP Overlap en VNet Peering | Diagnóstico de solapamiento CIDR y corrección de address space | [Abrir Lab 26](https://github.com/zapata-antonio//Lab-26-Incidencia-Solapamiento-de-IPs-en-VNet-Peering) |
 | Identidad | 27 | MFA Lock-out Recovery (Break-glass) | Recuperación de acceso y re-registro de MFA | [Abrir Lab 27](../Azure-Lab-27-Incidencia-MFA-Lockout-Recovery/) |
 | Sistemas | 28 | Extensión disco C: (Windows) | Resize en Azure + extend en el SO | [Abrir Lab 28](../Azure-Lab-28-Incidencia-Extend-OS-Disk/) |
 | Storage | 29 | RBAC insuficiente en Blob | Plano de control vs plano de datos (Blob Data Contributor) | [Abrir Lab 29](../Azure-Lab-29-Incidencia-RBAC-Storage/) |
